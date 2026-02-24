@@ -41,4 +41,3 @@ Notes
 - All tables use “INT AUTO_INCREMENT” primary keys
 - Relationships follow the project cardinality requirements
 - Database was created using MySQL Workbench EER modeling
-<img width="468" height="637" alt="image" src="https://github.com/user-attachments/assets/927bcc5d-d708-4c64-bad7-db0297dddcc2" />
